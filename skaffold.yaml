@@ -28,7 +28,7 @@ build:
         manual:
           - src: "*.js"
             dest: .
-    - image: cygnetops/multi-server-pgfix-5-11
+    - image: isiyokm1993/multi-server-k8s-pgfix-gh
       context: server
       docker:
         dockerfile: Dockerfile.dev
