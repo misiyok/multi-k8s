@@ -11,7 +11,7 @@ function App() {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Fib Calculator version 2 - pfff
+            Fib Calculator version 2 - local change!!
           </p>
           {/* <a
             className="App-link"
